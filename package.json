@@ -1,0 +1,26 @@
+{
+  "name": "dummy-words",
+  "version": "1.0.0",
+  "description": "get random words",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityakmr7/dummy-names.git"
+  },
+  "keywords": [
+    "random",
+    "names"
+  ],
+  "author": "aditya <adityakmr9672@gmail.com> (http://adityakmr.in/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adityakmr7/dummy-names/issues"
+  },
+  "homepage": "https://github.com/adityakmr7/dummy-names#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
